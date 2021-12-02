@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Xspa</string>
+    <string name="the_executive_spa">The Executive Spa</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Don\'t have account? Sign up</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="mpesa_number">Mpesa Number</string>
+    <string name="address">Address</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="Personal_Information">Check Out</string>
+    <string name="username">Username</string>
+</resources>
